@@ -1,0 +1,16 @@
+
+        </textarea>  <!-- С элементом <input> возможен ввод только одной строки текста. Чтобы создать многострочное поле ввода, используйте элемент <textarea> -->
+        <br><br>
+
+        <select>
+            <option>Red</option>
+            <option>Blue</option>
+            <option>Orange</option>
+            <option>Green</option>
+            <option>White</option>
+        </select> <!-- Выпадающий список позволяет пользователю выбрать один из нескольких вариантов. Его можно создать с помощью элемента <select></select> -->
+        <br><br>
+
+
+        <input type="button" value="SEND"> <!-- Кнопки можно создать с помощью элемента input -->
+        <br><br>
